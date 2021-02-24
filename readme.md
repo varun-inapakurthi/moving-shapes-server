@@ -3,6 +3,6 @@
 
  Step 2: Run `npm install`.
 
- Step 3: Run `node index.js.` 
+ Step 3: Run `node index.js`. 
 
 PORT=5000
